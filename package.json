@@ -8,6 +8,7 @@
   "private": true,
   "devDependencies": {
     "@types/gulp": "^4.0.10",
+    "@types/json-pointer": "^1.0.31",
     "@types/recursive-readdir": "^2.2.1",
     "gulp": "^4.0.2",
     "gulp-replace": "^1.1.4",
@@ -21,6 +22,7 @@
     "@types/recursive-readdir": "^2.2.1",
     "gulp": "^4.0.2",
     "gulp-replace": "^1.1.4",
+    "json-pointer": "^0.6.2",
     "json-schema-to-typescript": "^12.0.0",
     "recursive-readdir": "^2.2.3",
     "ts-node": "^10.9.1",
