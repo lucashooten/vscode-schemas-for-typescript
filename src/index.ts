@@ -3,7 +3,6 @@ import replace from 'gulp-replace'
 import { compileFromFile, compile } from 'json-schema-to-typescript'
 import { repository } from '../package.json'
 import fs from 'fs'
-import { JSONSchema4, JSONSchema4Object } from 'json-schema'
 
 const repoUrl = repository.replace('.git','').concat('/')
 
