@@ -87,7 +87,7 @@
         },
         "iconDefinitions": {
             "description": "Association of icon name to a font character.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/icons.json"
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/icons.json"
         }
     }
 }

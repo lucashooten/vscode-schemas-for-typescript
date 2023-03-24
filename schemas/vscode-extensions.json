@@ -79,7 +79,7 @@
             "type": "object",
             "properties": {
                 "configurationDefaults": {
-                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/configurationDefaults.json"
+                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/configurationDefaults.json"
                 },
                 "configuration": {
                     "description": "Contributes configuration settings.",

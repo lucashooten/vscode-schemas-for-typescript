@@ -8,7 +8,7 @@
 /**
  * VSCode static command line definition file
  */
-export interface HttpsGithubComLucashootenVscodeSchemasForTypescriptSchemasArgvJson {
+export interface HttpsRawGithubusercontentComLucashootenVscodeSchemasForTypescriptMainSchemasSchemasArgvJson {
   /**
    * The display Language to use. Picking a different language requires the associated language pack to be installed.
    */

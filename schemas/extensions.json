@@ -1,5 +1,5 @@
 {
-    "id": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/extensions.json",
+    "id": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/extensions.json",
     "allowComments": true,
     "allowTrailingCommas": true,
     "type": "object",

@@ -4,7 +4,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "editor.unicodeHighlight.ambiguousCharacters": false,
                 "editor.unicodeHighlight.invisibleCharacters": false
@@ -14,35 +14,35 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[Log]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[log]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[scminput]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[clojure]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "diffEditor.ignoreTrimWhitespace": false
             },
@@ -55,7 +55,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "diffEditor.ignoreTrimWhitespace": false
             },
@@ -68,7 +68,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "editor.maxTokenizationLineLength": 2500
             },
@@ -81,7 +81,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "editor.suggest.insertMode": "replace"
             },
@@ -94,7 +94,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "editor.suggest.insertMode": "replace"
             },
@@ -107,7 +107,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "editor.suggest.insertMode": "replace"
             },
@@ -120,7 +120,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "editor.quickSuggestions": {
                     "strings": true
@@ -135,7 +135,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "diffEditor.ignoreTrimWhitespace": false
             },
@@ -148,7 +148,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "editor.rulers": [
                     72
@@ -164,7 +164,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "workbench.editor.restoreViewState": false
             },
@@ -177,7 +177,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "editor.insertSpaces": false
             },
@@ -190,7 +190,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "editor.suggest.insertMode": "replace"
             },
@@ -203,7 +203,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "editor.suggest.insertMode": "replace"
             },
@@ -216,7 +216,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "editor.maxTokenizationLineLength": 2500
             },
@@ -229,7 +229,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "editor.quickSuggestions": {
                     "strings": true
@@ -245,7 +245,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "editor.quickSuggestions": {
                     "strings": true
@@ -261,7 +261,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "editor.insertSpaces": false
             },
@@ -274,7 +274,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "editor.unicodeHighlight.ambiguousCharacters": false,
                 "editor.unicodeHighlight.invisibleCharacters": false,
@@ -295,7 +295,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "diffEditor.ignoreTrimWhitespace": false
             },
@@ -308,7 +308,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "diffEditor.ignoreTrimWhitespace": false
             },
@@ -321,7 +321,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "editor.lineNumbers": "off"
             },
@@ -334,7 +334,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "files.eol": "\n"
             },
@@ -347,7 +347,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "editor.insertSpaces": true,
                 "editor.tabSize": 2,
@@ -363,7 +363,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {
                 "editor.insertSpaces": true,
                 "editor.tabSize": 2,
@@ -409,294 +409,294 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[c]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[cpp]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[cuda-cpp]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[dart]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[diff]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[ignore]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[groovy]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[hlsl]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[ini]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[properties]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[java]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[javascriptreact]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[jsx-tags]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[julia]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[juliamarkdown]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[tex]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[latex]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[bibtex]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[cpp_embedded_latex]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[markdown_latex_combined]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[lua]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[markdown-math]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[objective-c]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[objective-cpp]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[perl]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[perl6]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[php]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[powershell]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[r]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[razor]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[restructuredtext]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[ruby]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[rust]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[shaderlab]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[sql]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[swift]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[typescript]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[typescriptreact]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[vb]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[xml]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "[xsl]": {
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json",
             "default": {}
         },
         "workbench.list.multiSelectModifier": {
@@ -2883,82 +2883,82 @@
             "description": "Overrides colors from the currently selected color theme.",
             "allOf": [
                 {
-                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/workbench-colors.json"
+                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/workbench-colors.json"
                 },
                 {
                     "properties": {
                         "[Abyss]": {
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/workbench-colors.json",
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/workbench-colors.json",
                             "additionalProperties": false
                         },
                         "[Visual Studio Dark]": {
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/workbench-colors.json",
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/workbench-colors.json",
                             "additionalProperties": false
                         },
                         "[Default High Contrast]": {
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/workbench-colors.json",
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/workbench-colors.json",
                             "additionalProperties": false
                         },
                         "[Default Dark+]": {
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/workbench-colors.json",
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/workbench-colors.json",
                             "additionalProperties": false
                         },
                         "[Default Dark+ Experimental]": {
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/workbench-colors.json",
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/workbench-colors.json",
                             "additionalProperties": false
                         },
                         "[Kimbie Dark]": {
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/workbench-colors.json",
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/workbench-colors.json",
                             "additionalProperties": false
                         },
                         "[Visual Studio Light]": {
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/workbench-colors.json",
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/workbench-colors.json",
                             "additionalProperties": false
                         },
                         "[Default High Contrast Light]": {
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/workbench-colors.json",
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/workbench-colors.json",
                             "additionalProperties": false
                         },
                         "[Default Light+]": {
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/workbench-colors.json",
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/workbench-colors.json",
                             "additionalProperties": false
                         },
                         "[Default Light+ Experimental]": {
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/workbench-colors.json",
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/workbench-colors.json",
                             "additionalProperties": false
                         },
                         "[Monokai]": {
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/workbench-colors.json",
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/workbench-colors.json",
                             "additionalProperties": false
                         },
                         "[Monokai Dimmed]": {
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/workbench-colors.json",
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/workbench-colors.json",
                             "additionalProperties": false
                         },
                         "[Quiet Light]": {
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/workbench-colors.json",
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/workbench-colors.json",
                             "additionalProperties": false
                         },
                         "[Red]": {
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/workbench-colors.json",
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/workbench-colors.json",
                             "additionalProperties": false
                         },
                         "[Solarized Dark]": {
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/workbench-colors.json",
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/workbench-colors.json",
                             "additionalProperties": false
                         },
                         "[Solarized Light]": {
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/workbench-colors.json",
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/workbench-colors.json",
                             "additionalProperties": false
                         },
                         "[Tomorrow Night Blue]": {
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/workbench-colors.json",
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/workbench-colors.json",
                             "additionalProperties": false
                         }
                     },
                     "patternProperties": {
                         "^\\[[^\\]]*(\\]\\s*\\[[^\\]]*)*\\]$": {
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/workbench-colors.json",
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/workbench-colors.json",
                             "additionalProperties": false
                         }
                     }
@@ -3012,35 +3012,35 @@
                     "properties": {
                         "comments": {
                             "description": "Sets the colors and styles for comments",
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                         },
                         "strings": {
                             "description": "Sets the colors and styles for strings literals.",
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                         },
                         "keywords": {
                             "description": "Sets the colors and styles for keywords.",
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                         },
                         "numbers": {
                             "description": "Sets the colors and styles for number literals.",
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                         },
                         "types": {
                             "description": "Sets the colors and styles for type declarations and references.",
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                         },
                         "functions": {
                             "description": "Sets the colors and styles for functions declarations and references.",
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                         },
                         "variables": {
                             "description": "Sets the colors and styles for variables declarations and references.",
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                         },
                         "textMateRules": {
                             "description": "Sets colors and styles using textmate theming rules (advanced).",
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors.json"
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors.json"
                         },
                         "semanticHighlighting": {
                             "description": "Whether semantic highlighting should be enabled for this theme.",
@@ -3060,35 +3060,35 @@
                             "properties": {
                                 "comments": {
                                     "description": "Sets the colors and styles for comments",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "strings": {
                                     "description": "Sets the colors and styles for strings literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "keywords": {
                                     "description": "Sets the colors and styles for keywords.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "numbers": {
                                     "description": "Sets the colors and styles for number literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "types": {
                                     "description": "Sets the colors and styles for type declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "functions": {
                                     "description": "Sets the colors and styles for functions declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "variables": {
                                     "description": "Sets the colors and styles for variables declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "textMateRules": {
                                     "description": "Sets colors and styles using textmate theming rules (advanced).",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors.json"
                                 },
                                 "semanticHighlighting": {
                                     "description": "Whether semantic highlighting should be enabled for this theme.",
@@ -3103,35 +3103,35 @@
                             "properties": {
                                 "comments": {
                                     "description": "Sets the colors and styles for comments",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "strings": {
                                     "description": "Sets the colors and styles for strings literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "keywords": {
                                     "description": "Sets the colors and styles for keywords.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "numbers": {
                                     "description": "Sets the colors and styles for number literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "types": {
                                     "description": "Sets the colors and styles for type declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "functions": {
                                     "description": "Sets the colors and styles for functions declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "variables": {
                                     "description": "Sets the colors and styles for variables declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "textMateRules": {
                                     "description": "Sets colors and styles using textmate theming rules (advanced).",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors.json"
                                 },
                                 "semanticHighlighting": {
                                     "description": "Whether semantic highlighting should be enabled for this theme.",
@@ -3146,35 +3146,35 @@
                             "properties": {
                                 "comments": {
                                     "description": "Sets the colors and styles for comments",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "strings": {
                                     "description": "Sets the colors and styles for strings literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "keywords": {
                                     "description": "Sets the colors and styles for keywords.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "numbers": {
                                     "description": "Sets the colors and styles for number literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "types": {
                                     "description": "Sets the colors and styles for type declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "functions": {
                                     "description": "Sets the colors and styles for functions declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "variables": {
                                     "description": "Sets the colors and styles for variables declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "textMateRules": {
                                     "description": "Sets colors and styles using textmate theming rules (advanced).",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors.json"
                                 },
                                 "semanticHighlighting": {
                                     "description": "Whether semantic highlighting should be enabled for this theme.",
@@ -3189,35 +3189,35 @@
                             "properties": {
                                 "comments": {
                                     "description": "Sets the colors and styles for comments",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "strings": {
                                     "description": "Sets the colors and styles for strings literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "keywords": {
                                     "description": "Sets the colors and styles for keywords.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "numbers": {
                                     "description": "Sets the colors and styles for number literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "types": {
                                     "description": "Sets the colors and styles for type declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "functions": {
                                     "description": "Sets the colors and styles for functions declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "variables": {
                                     "description": "Sets the colors and styles for variables declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "textMateRules": {
                                     "description": "Sets colors and styles using textmate theming rules (advanced).",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors.json"
                                 },
                                 "semanticHighlighting": {
                                     "description": "Whether semantic highlighting should be enabled for this theme.",
@@ -3232,35 +3232,35 @@
                             "properties": {
                                 "comments": {
                                     "description": "Sets the colors and styles for comments",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "strings": {
                                     "description": "Sets the colors and styles for strings literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "keywords": {
                                     "description": "Sets the colors and styles for keywords.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "numbers": {
                                     "description": "Sets the colors and styles for number literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "types": {
                                     "description": "Sets the colors and styles for type declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "functions": {
                                     "description": "Sets the colors and styles for functions declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "variables": {
                                     "description": "Sets the colors and styles for variables declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "textMateRules": {
                                     "description": "Sets colors and styles using textmate theming rules (advanced).",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors.json"
                                 },
                                 "semanticHighlighting": {
                                     "description": "Whether semantic highlighting should be enabled for this theme.",
@@ -3275,35 +3275,35 @@
                             "properties": {
                                 "comments": {
                                     "description": "Sets the colors and styles for comments",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "strings": {
                                     "description": "Sets the colors and styles for strings literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "keywords": {
                                     "description": "Sets the colors and styles for keywords.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "numbers": {
                                     "description": "Sets the colors and styles for number literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "types": {
                                     "description": "Sets the colors and styles for type declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "functions": {
                                     "description": "Sets the colors and styles for functions declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "variables": {
                                     "description": "Sets the colors and styles for variables declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "textMateRules": {
                                     "description": "Sets colors and styles using textmate theming rules (advanced).",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors.json"
                                 },
                                 "semanticHighlighting": {
                                     "description": "Whether semantic highlighting should be enabled for this theme.",
@@ -3318,35 +3318,35 @@
                             "properties": {
                                 "comments": {
                                     "description": "Sets the colors and styles for comments",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "strings": {
                                     "description": "Sets the colors and styles for strings literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "keywords": {
                                     "description": "Sets the colors and styles for keywords.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "numbers": {
                                     "description": "Sets the colors and styles for number literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "types": {
                                     "description": "Sets the colors and styles for type declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "functions": {
                                     "description": "Sets the colors and styles for functions declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "variables": {
                                     "description": "Sets the colors and styles for variables declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "textMateRules": {
                                     "description": "Sets colors and styles using textmate theming rules (advanced).",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors.json"
                                 },
                                 "semanticHighlighting": {
                                     "description": "Whether semantic highlighting should be enabled for this theme.",
@@ -3361,35 +3361,35 @@
                             "properties": {
                                 "comments": {
                                     "description": "Sets the colors and styles for comments",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "strings": {
                                     "description": "Sets the colors and styles for strings literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "keywords": {
                                     "description": "Sets the colors and styles for keywords.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "numbers": {
                                     "description": "Sets the colors and styles for number literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "types": {
                                     "description": "Sets the colors and styles for type declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "functions": {
                                     "description": "Sets the colors and styles for functions declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "variables": {
                                     "description": "Sets the colors and styles for variables declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "textMateRules": {
                                     "description": "Sets colors and styles using textmate theming rules (advanced).",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors.json"
                                 },
                                 "semanticHighlighting": {
                                     "description": "Whether semantic highlighting should be enabled for this theme.",
@@ -3404,35 +3404,35 @@
                             "properties": {
                                 "comments": {
                                     "description": "Sets the colors and styles for comments",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "strings": {
                                     "description": "Sets the colors and styles for strings literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "keywords": {
                                     "description": "Sets the colors and styles for keywords.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "numbers": {
                                     "description": "Sets the colors and styles for number literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "types": {
                                     "description": "Sets the colors and styles for type declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "functions": {
                                     "description": "Sets the colors and styles for functions declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "variables": {
                                     "description": "Sets the colors and styles for variables declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "textMateRules": {
                                     "description": "Sets colors and styles using textmate theming rules (advanced).",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors.json"
                                 },
                                 "semanticHighlighting": {
                                     "description": "Whether semantic highlighting should be enabled for this theme.",
@@ -3447,35 +3447,35 @@
                             "properties": {
                                 "comments": {
                                     "description": "Sets the colors and styles for comments",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "strings": {
                                     "description": "Sets the colors and styles for strings literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "keywords": {
                                     "description": "Sets the colors and styles for keywords.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "numbers": {
                                     "description": "Sets the colors and styles for number literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "types": {
                                     "description": "Sets the colors and styles for type declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "functions": {
                                     "description": "Sets the colors and styles for functions declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "variables": {
                                     "description": "Sets the colors and styles for variables declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "textMateRules": {
                                     "description": "Sets colors and styles using textmate theming rules (advanced).",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors.json"
                                 },
                                 "semanticHighlighting": {
                                     "description": "Whether semantic highlighting should be enabled for this theme.",
@@ -3490,35 +3490,35 @@
                             "properties": {
                                 "comments": {
                                     "description": "Sets the colors and styles for comments",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "strings": {
                                     "description": "Sets the colors and styles for strings literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "keywords": {
                                     "description": "Sets the colors and styles for keywords.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "numbers": {
                                     "description": "Sets the colors and styles for number literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "types": {
                                     "description": "Sets the colors and styles for type declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "functions": {
                                     "description": "Sets the colors and styles for functions declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "variables": {
                                     "description": "Sets the colors and styles for variables declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "textMateRules": {
                                     "description": "Sets colors and styles using textmate theming rules (advanced).",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors.json"
                                 },
                                 "semanticHighlighting": {
                                     "description": "Whether semantic highlighting should be enabled for this theme.",
@@ -3533,35 +3533,35 @@
                             "properties": {
                                 "comments": {
                                     "description": "Sets the colors and styles for comments",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "strings": {
                                     "description": "Sets the colors and styles for strings literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "keywords": {
                                     "description": "Sets the colors and styles for keywords.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "numbers": {
                                     "description": "Sets the colors and styles for number literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "types": {
                                     "description": "Sets the colors and styles for type declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "functions": {
                                     "description": "Sets the colors and styles for functions declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "variables": {
                                     "description": "Sets the colors and styles for variables declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "textMateRules": {
                                     "description": "Sets colors and styles using textmate theming rules (advanced).",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors.json"
                                 },
                                 "semanticHighlighting": {
                                     "description": "Whether semantic highlighting should be enabled for this theme.",
@@ -3576,35 +3576,35 @@
                             "properties": {
                                 "comments": {
                                     "description": "Sets the colors and styles for comments",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "strings": {
                                     "description": "Sets the colors and styles for strings literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "keywords": {
                                     "description": "Sets the colors and styles for keywords.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "numbers": {
                                     "description": "Sets the colors and styles for number literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "types": {
                                     "description": "Sets the colors and styles for type declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "functions": {
                                     "description": "Sets the colors and styles for functions declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "variables": {
                                     "description": "Sets the colors and styles for variables declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "textMateRules": {
                                     "description": "Sets colors and styles using textmate theming rules (advanced).",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors.json"
                                 },
                                 "semanticHighlighting": {
                                     "description": "Whether semantic highlighting should be enabled for this theme.",
@@ -3619,35 +3619,35 @@
                             "properties": {
                                 "comments": {
                                     "description": "Sets the colors and styles for comments",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "strings": {
                                     "description": "Sets the colors and styles for strings literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "keywords": {
                                     "description": "Sets the colors and styles for keywords.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "numbers": {
                                     "description": "Sets the colors and styles for number literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "types": {
                                     "description": "Sets the colors and styles for type declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "functions": {
                                     "description": "Sets the colors and styles for functions declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "variables": {
                                     "description": "Sets the colors and styles for variables declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "textMateRules": {
                                     "description": "Sets colors and styles using textmate theming rules (advanced).",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors.json"
                                 },
                                 "semanticHighlighting": {
                                     "description": "Whether semantic highlighting should be enabled for this theme.",
@@ -3662,35 +3662,35 @@
                             "properties": {
                                 "comments": {
                                     "description": "Sets the colors and styles for comments",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "strings": {
                                     "description": "Sets the colors and styles for strings literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "keywords": {
                                     "description": "Sets the colors and styles for keywords.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "numbers": {
                                     "description": "Sets the colors and styles for number literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "types": {
                                     "description": "Sets the colors and styles for type declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "functions": {
                                     "description": "Sets the colors and styles for functions declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "variables": {
                                     "description": "Sets the colors and styles for variables declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "textMateRules": {
                                     "description": "Sets colors and styles using textmate theming rules (advanced).",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors.json"
                                 },
                                 "semanticHighlighting": {
                                     "description": "Whether semantic highlighting should be enabled for this theme.",
@@ -3705,35 +3705,35 @@
                             "properties": {
                                 "comments": {
                                     "description": "Sets the colors and styles for comments",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "strings": {
                                     "description": "Sets the colors and styles for strings literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "keywords": {
                                     "description": "Sets the colors and styles for keywords.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "numbers": {
                                     "description": "Sets the colors and styles for number literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "types": {
                                     "description": "Sets the colors and styles for type declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "functions": {
                                     "description": "Sets the colors and styles for functions declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "variables": {
                                     "description": "Sets the colors and styles for variables declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "textMateRules": {
                                     "description": "Sets colors and styles using textmate theming rules (advanced).",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors.json"
                                 },
                                 "semanticHighlighting": {
                                     "description": "Whether semantic highlighting should be enabled for this theme.",
@@ -3748,35 +3748,35 @@
                             "properties": {
                                 "comments": {
                                     "description": "Sets the colors and styles for comments",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "strings": {
                                     "description": "Sets the colors and styles for strings literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "keywords": {
                                     "description": "Sets the colors and styles for keywords.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "numbers": {
                                     "description": "Sets the colors and styles for number literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "types": {
                                     "description": "Sets the colors and styles for type declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "functions": {
                                     "description": "Sets the colors and styles for functions declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "variables": {
                                     "description": "Sets the colors and styles for variables declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "textMateRules": {
                                     "description": "Sets colors and styles using textmate theming rules (advanced).",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors.json"
                                 },
                                 "semanticHighlighting": {
                                     "description": "Whether semantic highlighting should be enabled for this theme.",
@@ -3793,35 +3793,35 @@
                             "properties": {
                                 "comments": {
                                     "description": "Sets the colors and styles for comments",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "strings": {
                                     "description": "Sets the colors and styles for strings literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "keywords": {
                                     "description": "Sets the colors and styles for keywords.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "numbers": {
                                     "description": "Sets the colors and styles for number literals.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "types": {
                                     "description": "Sets the colors and styles for type declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "functions": {
                                     "description": "Sets the colors and styles for functions declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "variables": {
                                     "description": "Sets the colors and styles for variables declarations and references.",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors#/definitions/colorGroup.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors#/definitions/colorGroup.json"
                                 },
                                 "textMateRules": {
                                     "description": "Sets colors and styles using textmate theming rules (advanced).",
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/textmate-colors.json"
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors.json"
                                 },
                                 "semanticHighlighting": {
                                     "description": "Whether semantic highlighting should be enabled for this theme.",
@@ -3852,7 +3852,7 @@
                             "suggestSortText": "0_enabled"
                         },
                         "rules": {
-                            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/token-styling.json",
+                            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/token-styling.json",
                             "description": "Semantic token styling rules for this theme.",
                             "suggestSortText": "0_rules"
                         }
@@ -3873,7 +3873,7 @@
                                     "suggestSortText": "0_enabled"
                                 },
                                 "rules": {
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/token-styling.json",
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/token-styling.json",
                                     "description": "Semantic token styling rules for this theme.",
                                     "suggestSortText": "0_rules"
                                 }
@@ -3889,7 +3889,7 @@
                                     "suggestSortText": "0_enabled"
                                 },
                                 "rules": {
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/token-styling.json",
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/token-styling.json",
                                     "description": "Semantic token styling rules for this theme.",
                                     "suggestSortText": "0_rules"
                                 }
@@ -3905,7 +3905,7 @@
                                     "suggestSortText": "0_enabled"
                                 },
                                 "rules": {
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/token-styling.json",
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/token-styling.json",
                                     "description": "Semantic token styling rules for this theme.",
                                     "suggestSortText": "0_rules"
                                 }
@@ -3921,7 +3921,7 @@
                                     "suggestSortText": "0_enabled"
                                 },
                                 "rules": {
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/token-styling.json",
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/token-styling.json",
                                     "description": "Semantic token styling rules for this theme.",
                                     "suggestSortText": "0_rules"
                                 }
@@ -3937,7 +3937,7 @@
                                     "suggestSortText": "0_enabled"
                                 },
                                 "rules": {
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/token-styling.json",
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/token-styling.json",
                                     "description": "Semantic token styling rules for this theme.",
                                     "suggestSortText": "0_rules"
                                 }
@@ -3953,7 +3953,7 @@
                                     "suggestSortText": "0_enabled"
                                 },
                                 "rules": {
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/token-styling.json",
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/token-styling.json",
                                     "description": "Semantic token styling rules for this theme.",
                                     "suggestSortText": "0_rules"
                                 }
@@ -3969,7 +3969,7 @@
                                     "suggestSortText": "0_enabled"
                                 },
                                 "rules": {
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/token-styling.json",
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/token-styling.json",
                                     "description": "Semantic token styling rules for this theme.",
                                     "suggestSortText": "0_rules"
                                 }
@@ -3985,7 +3985,7 @@
                                     "suggestSortText": "0_enabled"
                                 },
                                 "rules": {
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/token-styling.json",
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/token-styling.json",
                                     "description": "Semantic token styling rules for this theme.",
                                     "suggestSortText": "0_rules"
                                 }
@@ -4001,7 +4001,7 @@
                                     "suggestSortText": "0_enabled"
                                 },
                                 "rules": {
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/token-styling.json",
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/token-styling.json",
                                     "description": "Semantic token styling rules for this theme.",
                                     "suggestSortText": "0_rules"
                                 }
@@ -4017,7 +4017,7 @@
                                     "suggestSortText": "0_enabled"
                                 },
                                 "rules": {
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/token-styling.json",
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/token-styling.json",
                                     "description": "Semantic token styling rules for this theme.",
                                     "suggestSortText": "0_rules"
                                 }
@@ -4033,7 +4033,7 @@
                                     "suggestSortText": "0_enabled"
                                 },
                                 "rules": {
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/token-styling.json",
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/token-styling.json",
                                     "description": "Semantic token styling rules for this theme.",
                                     "suggestSortText": "0_rules"
                                 }
@@ -4049,7 +4049,7 @@
                                     "suggestSortText": "0_enabled"
                                 },
                                 "rules": {
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/token-styling.json",
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/token-styling.json",
                                     "description": "Semantic token styling rules for this theme.",
                                     "suggestSortText": "0_rules"
                                 }
@@ -4065,7 +4065,7 @@
                                     "suggestSortText": "0_enabled"
                                 },
                                 "rules": {
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/token-styling.json",
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/token-styling.json",
                                     "description": "Semantic token styling rules for this theme.",
                                     "suggestSortText": "0_rules"
                                 }
@@ -4081,7 +4081,7 @@
                                     "suggestSortText": "0_enabled"
                                 },
                                 "rules": {
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/token-styling.json",
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/token-styling.json",
                                     "description": "Semantic token styling rules for this theme.",
                                     "suggestSortText": "0_rules"
                                 }
@@ -4097,7 +4097,7 @@
                                     "suggestSortText": "0_enabled"
                                 },
                                 "rules": {
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/token-styling.json",
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/token-styling.json",
                                     "description": "Semantic token styling rules for this theme.",
                                     "suggestSortText": "0_rules"
                                 }
@@ -4113,7 +4113,7 @@
                                     "suggestSortText": "0_enabled"
                                 },
                                 "rules": {
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/token-styling.json",
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/token-styling.json",
                                     "description": "Semantic token styling rules for this theme.",
                                     "suggestSortText": "0_rules"
                                 }
@@ -4129,7 +4129,7 @@
                                     "suggestSortText": "0_enabled"
                                 },
                                 "rules": {
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/token-styling.json",
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/token-styling.json",
                                     "description": "Semantic token styling rules for this theme.",
                                     "suggestSortText": "0_rules"
                                 }
@@ -4147,7 +4147,7 @@
                                     "suggestSortText": "0_enabled"
                                 },
                                 "rules": {
-                                    "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/token-styling.json",
+                                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/token-styling.json",
                                     "description": "Semantic token styling rules for this theme.",
                                     "suggestSortText": "0_rules"
                                 }
@@ -7302,7 +7302,7 @@
                 "configurations": [],
                 "compounds": []
             },
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/launch.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/launch.json",
             "defaultDefaultValue": {
                 "configurations": [],
                 "compounds": []
@@ -34438,7 +34438,7 @@
             "type": "object",
             "description": "Configure editor settings to be overridden for a language.",
             "errorMessage": "This setting does not support per-language configuration.",
-            "$ref": "https://github.com/lucashooten/vscode-schemas-for-typescript/schemas/settings/resourceLanguage.json"
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/resourceLanguage.json"
         }
     },
     "additionalProperties": true,

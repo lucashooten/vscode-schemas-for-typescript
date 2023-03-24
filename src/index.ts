@@ -13,7 +13,7 @@ export const replaceVSCodeHandles = () => {
 
     return src('./src/wraith13-vscode-schemas/en/latest/schemas/**/*') // @ts-ignore
         //.pipe(debug({title: 'found file: '}))
-        .pipe(replace(vscodeUriAddress, `${repoUrl}$1`+'.json'))
+        .pipe(replace(vscodeUriAddress, `https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/$1`+'.json'))
         //.pipe(debug({title: 'replacer: '}))
         .pipe(dest('./schemas/'))
 };
