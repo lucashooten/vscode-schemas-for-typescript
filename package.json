@@ -1,0 +1,23 @@
+{
+  "name": "vscode-schemas-for-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lucashooten/vscode-schemas-for-typescript.git",
+  "author": "Lucas Hooten <lucashooten@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "@types/gulp": "^4.0.10",
+    "@types/gulp-debug": "^2.0.32",
+    "@types/through2": "^2.0.38",
+    "gulp": "^4.0.2",
+    "gulp-debug": "^4.0.0",
+    "gulp-replace": "^1.1.4",
+    "json-schema-to-typescript": "^12.0.0",
+    "through2": "^4.0.2",
+    "ts-node": "^10.9.1"
+  }
+}
