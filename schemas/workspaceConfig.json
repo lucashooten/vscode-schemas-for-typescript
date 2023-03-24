@@ -64,7 +64,7 @@
             "type": "object",
             "default": {},
             "description": "Workspace settings",
-            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/settings/workspace.json"
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/settings/workspace.json"
         },
         "launch": {
             "type": "object",
@@ -73,7 +73,7 @@
                 "compounds": []
             },
             "description": "Workspace launch configurations",
-            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/launch.json"
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/launch.json"
         },
         "tasks": {
             "type": "object",
@@ -82,13 +82,13 @@
                 "tasks": []
             },
             "description": "Workspace task configurations",
-            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/tasks.json"
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/tasks.json"
         },
         "extensions": {
             "type": "object",
             "default": {},
             "description": "Workspace extensions",
-            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/extensions.json"
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/extensions.json"
         },
         "remoteAuthority": {
             "type": "string",

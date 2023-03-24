@@ -1,5 +1,5 @@
 {
-    "id": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/tasks.json",
+    "id": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/tasks.json",
     "description": "Task definition file",
     "type": "object",
     "allowTrailingCommas": true,

@@ -1,5 +1,5 @@
 {
-    "id": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/keybindings.json",
+    "id": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/keybindings.json",
     "type": "array",
     "title": "Keybindings configuration",
     "allowTrailingCommas": true,

@@ -1,5 +1,5 @@
 {
-    "id": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/launch.json",
+    "id": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/launch.json",
     "type": "object",
     "title": "Launch",
     "allowTrailingCommas": true,

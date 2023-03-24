@@ -1,5 +1,5 @@
 {
-    "id": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/argv.json",
+    "id": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/argv.json",
     "allowComments": true,
     "allowTrailingCommas": true,
     "description": "VSCode static command line definition file",

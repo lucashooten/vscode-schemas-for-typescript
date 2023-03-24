@@ -5,7 +5,7 @@
     "properties": {
         "colors": {
             "description": "Colors in the workbench",
-            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/workbench-colors.json",
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/workbench-colors.json",
             "additionalProperties": false
         },
         "tokenColors": {
@@ -16,7 +16,7 @@
                 },
                 {
                     "description": "Colors for syntax highlighting",
-                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/textmate-colors.json"
+                    "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/textmate-colors.json"
                 }
             ]
         },
@@ -27,7 +27,7 @@
         "semanticTokenColors": {
             "type": "object",
             "description": "Colors for semantic tokens",
-            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/schemas/token-styling.json"
+            "$ref": "https://raw.githubusercontent.com/lucashooten/vscode-schemas-for-typescript/main/schemas/token-styling.json"
         }
     }
 }
